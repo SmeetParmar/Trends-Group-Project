@@ -1,3 +1,6 @@
+
+// /--------------------- MEET ---------------------/ 
+
 import React from 'react';
 import locationImage from '../assets/images/location.jpeg'; // Assuming the image is stored locally
 
